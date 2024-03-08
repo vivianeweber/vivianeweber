@@ -4,7 +4,7 @@ Hi there!
 <br>
 📖 Currently learning Java and Python
 <br>
-🖥️ I'm very interested in Cibersecurity area, planning to study it soon 🙂
+🖥️ I'm very interested in the field of Cibersecurity, planning to study it soon 🙂
 
 <!---
 vivianeweber/vivianeweber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
