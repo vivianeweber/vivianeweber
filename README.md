@@ -1,10 +1,10 @@
 Hi there!
 <br>
-🎓 I'm studying Software Engineering in the university 
+🎓 I'm studying Software Engineering in the University 
 <br>
 📖 Currently learning Java and Python
 <br>
-🖥️ I'm very interested in the field of Cibersecurity, planning to study it soon 🙂
+🖥️ I'm very interested in the field of Cibersecurity
 
 <!---
 vivianeweber/vivianeweber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
