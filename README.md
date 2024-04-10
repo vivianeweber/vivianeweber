@@ -2,7 +2,7 @@ Hi there!
 <br>
 🎓 I'm studying Software Engineering in the University 
 <br>
-📖 Currently learning Java and Python
+📖 Currently learning Java 
 <br>
 🖥️ I'm very interested in the field of Cibersecurity
 
